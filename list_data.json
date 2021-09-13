@@ -1,33 +1,25 @@
 {
-	"publications": [{
-		"Title": "Automatically Generating Cause-and_Effect Questions from Passages",
-		"Authors": "Stasaski, K., Rathod, M., Tu, T., Xiao, Y, and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2021"
+	"Restaurants": [{
+		"Name": "Sauls Restaurant",
+		"Speciality": "Jewish Deli",
+		"Number": "5108483354",
+		"Distance": "2 miles"
 	},
 	{
-		"Title": "Automatic Feedback Generation for Dialog-Based Language Tutors Using Transformer Models and Active Learning",
-		"Authors": "Stasaski, K. and Ramanarayanan, V.",
-		"Venue": "Human-in-the-Loop Dialogue Systems Workshop",
-		"Year": "2020"
-	},
-	{
-		"Title": "More Diverse Dialogue Datasets via Diversity-Informed Data Collection",
-		"Authors": "Stasaski, K., Yang, G., and Hearst, M.A.",
-		"Venue": "ACL",
-		"Year": "2020"
-	},
-	{
-		"Title": " Construction of a Large Open Access Dialogue Dataset for Tutoring",
-		"Authors": "Stasaski, K., Kao, K., and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2020"
-	},
-	{
-		"Title": "Multiple Choice Question Generation Utilizing an Ontology",
-		"Authors": "Stasaski, K and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2017"
+		"Name": "Cheeseboard Pizza",
+		"Speciality": "Pizza",
+		"Number": "5105493183",
+		"Distance": "1 miles"
+	},{
+		"Name": "Funky elephant",
+		"Speciality": "Thai Cuisine",
+		"Number": "5103564855",
+		"Distance": "0.5 miles"
+	},{
+		"Name": "Ippuku",
+		"Speciality": "japanese Cuisine",
+		"Number": "5106651969",
+		"Distance": "6 miles"
 	}]
 	
 }
